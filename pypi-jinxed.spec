@@ -4,7 +4,7 @@
 #
 Name     : pypi-jinxed
 Version  : 1.1.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/f8/a5/1a00a62686fe32a7f36edbcec5db8c7def822ab7d5c54af78be520ecd423/jinxed-1.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f8/a5/1a00a62686fe32a7f36edbcec5db8c7def822ab7d5c54af78be520ecd423/jinxed-1.1.0.tar.gz
 Summary  : Jinxed Terminal Library
@@ -56,7 +56,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1646100792
+export SOURCE_DATE_EPOCH=1649769717
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
