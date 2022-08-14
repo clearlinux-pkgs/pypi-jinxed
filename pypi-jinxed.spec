@@ -4,7 +4,7 @@
 #
 Name     : pypi-jinxed
 Version  : 1.2.0
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/a5/3f/5b9182af8108c6af21183fa64883a1c7647450b6d4fa8ad359d4e93f6bd9/jinxed-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a5/3f/5b9182af8108c6af21183fa64883a1c7647450b6d4fa8ad359d4e93f6bd9/jinxed-1.2.0.tar.gz
 Summary  : Jinxed Terminal Library
