@@ -1,5 +1,5 @@
 PKG_NAME := pypi-jinxed
-URL = https://files.pythonhosted.org/packages/a5/3f/5b9182af8108c6af21183fa64883a1c7647450b6d4fa8ad359d4e93f6bd9/jinxed-1.2.0.tar.gz
+URL = https://files.pythonhosted.org/packages/48/8a/b0aea3822dec616c95be0cbc54d834e17cb072cbd75af75e442180b1fb20/jinxed-1.2.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
